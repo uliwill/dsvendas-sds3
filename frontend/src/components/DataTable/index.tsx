@@ -16,35 +16,35 @@ function DataTable() {
         <tbody>
           <tr>
             <td>22/04/2021</td>
-            <td>Barry Allen</td>
+            <td>Bruce Banner</td>
             <td>34</td>
             <td>25</td>
             <td>15017.00</td>
           </tr>
           <tr>
             <td>22/04/2021</td>
-            <td>Barry Allen</td>
+            <td>Peter Parker</td>
             <td>34</td>
             <td>25</td>
             <td>15017.00</td>
           </tr>
           <tr>
             <td>22/04/2021</td>
-            <td>Barry Allen</td>
+            <td>Steve Rogers</td>
             <td>34</td>
             <td>25</td>
             <td>15017.00</td>
           </tr>
           <tr>
             <td>22/04/2021</td>
-            <td>Barry Allen</td>
+            <td>Thor Odinson</td>
             <td>34</td>
             <td>25</td>
             <td>15017.00</td>
           </tr>
           <tr>
             <td>22/04/2021</td>
-            <td>Barry Allen</td>
+            <td>Tony Stark</td>
             <td>34</td>
             <td>25</td>
             <td>15017.00</td>
